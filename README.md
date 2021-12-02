@@ -2,7 +2,7 @@
 flaskで静的なwebページを作るときのテンプレート
 
 # 使い方
-appにアプリケーションコードがあります。(dockerfileもあります)
+appにアプリケーションコードがあります。(dockerfileは作業中です)
 
 ## フロントエンド編集
 1. ```template/index.html```にhtmlを書く
